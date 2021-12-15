@@ -3,140 +3,140 @@
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2008,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.95397
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.95397
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2009,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.77993
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.77993
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2010,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 5.10196
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 5.10196
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2011,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.1152
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.1152
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2012,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.27962
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.27962
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2013,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.77705
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.77705
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2014,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.90597
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.90597
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2015,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.93491
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.93491
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2017,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.7305
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.7305
   },
   {
     "id": 1,
     "gemeente": "Vlaams Gewest",
     "jaar": 2018,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.73239
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.73239
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2008,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.45121
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.45121
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2009,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.32276
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.32276
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2010,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.7997
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.7997
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2011,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.74335
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.74335
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2012,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.06487
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.06487
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2013,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 4.4573
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 4.4573
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2014,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 3.54317
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 3.54317
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2015,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 2.73514
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 2.73514
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2017,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 2.78366
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 2.78366
   },
   {
     "id": 2,
     "gemeente": "Aartselaar",
     "jaar": 2018,
-    "Indicator": "CO2-emissies door verwarming huishoudens",
-    "Uitstoot per huishouden": 2.86567
+    "indicator": "CO2-emissies door verwarming huishoudens",
+    "waarde": 2.86567
   }
 ]
